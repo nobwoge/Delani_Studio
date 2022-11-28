@@ -2,7 +2,7 @@
 #### This is a website for Delani Studio showing its services and a form to reach out to them
 #### By Albert Obwoge
 ## Description
-This is a website for Delani Studio showing its services and a form to reach out to them
+This is a website for Delani Studio showing its services and a contact form to reach out to them.
 ## Setup/Installation Requirements
 * Open Terminal {Ctrl+Alt+T}
 
