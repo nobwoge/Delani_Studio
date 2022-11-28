@@ -6,7 +6,8 @@ This is a website for Delani Studio showing its services and a contact form to r
 ## Setup/Installation Requirements
 * Open Terminal {Ctrl+Alt+T}
 
-*git clone live link
+*git clone https://github.com/nobwoge/Delani_Studio.git
+
 
 cd Delani_Studio
 
