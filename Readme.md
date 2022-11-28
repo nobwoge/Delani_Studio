@@ -10,15 +10,15 @@ This is a website for Delani Studio showing its services and a contact form to r
 
 cd Delani_Studio
 
-code . or atom . depending on the text editor of your choise
+code . or atom . depending on the text editor type.
 
 ## Known Bugs
 The site does not work well for some devices.
 ## Technologies Used
-HTML5
-CSS
-Bootstrap
-jQuery
+*HTML5
+*CSS
+*Bootstrap
+*jQuery
 ## Support and contact details
 albertnyambegaa@gmail.com
 ### License
