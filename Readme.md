@@ -8,7 +8,7 @@ This is a website for Delani Studio showing its services and a contact form to r
 
 *git clone live link
 
-cd Delani-Studio
+cd Delani_Studio
 
 code . or atom . depending on the text editor of your choise
 
