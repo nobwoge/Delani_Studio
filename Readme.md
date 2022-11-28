@@ -12,7 +12,8 @@ This is a website for Delani Studio showing its services and a contact form to r
 cd Delani_Studio
 
 code . or atom . depending on the text editor type.
-
+## GH-PAGES
+https://nobwoge.github.io/Delani_Studio/
 ## Known Bugs
 The site does not work well for some devices.
 ## Technologies Used
